@@ -1,3 +1,5 @@
+# Credits
+(i'll add asap)
 # RobloxBedwars_Heatseeker
 A recreation of Vape V4's heatseeker speed mode
 
